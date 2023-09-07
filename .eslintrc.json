@@ -80,5 +80,5 @@
 		}
 	],
 	"ignorePatterns": ["*.js", "*.jsx"],
-	"workingDirectories": ["week1/first-app/src"]
+	"workingDirectories": ["src"]
 }
